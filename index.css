@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(91, 91, 212);
+    color: aliceblue;
+    width: 95%;
+    max-width: 1400px;
+    margin: auto;
+}
+
+h1 {
+    font-family: monospace;
+}
+
+h2 {
+    color: black;
+    margin-bottom: 30px;
+    font-family: monospace;
+}
+
+p {
+    font-family: sans-serif
+}
+
+header {
+    margin: 50px;
+}
+
+#about {
+    max-width: 700px;
+    width: 95%;
+    margin: 100px auto;
+    text-align: center;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+
+.projects {
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 20px;
+    width: 90%;
+    max-width: 500px;
+    margin: 30px auto;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    line-height: 20px;
+}
